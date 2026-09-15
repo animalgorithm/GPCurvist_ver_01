@@ -3,7 +3,7 @@
 (No Coding Required!)
 ________________________________________
 1.	Install the MATLAB Runtime (One-Time Setup):
-2.	
+   
 Open the folder: GPCurvist_ver_01 > MATLAB_Runtime and locate the installer file: MyAppInstaller_web.exe
 
 Double-click it to begin installation.
@@ -22,8 +22,8 @@ Double-click it to begin installation.
 
 Follow the on-screen instructions to complete the setup. This is a one-time installation. You won’t need to install the Runtime again for future versions of GPCurvist.
 
-3.	Launch the App:
-4.	
+2.	Launch the App:
+
 After installing the Runtime:
 
 • Go back to the main folder Double-click GPCurvist.exe to start the app 
